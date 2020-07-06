@@ -14,4 +14,3 @@
     "test": "protractor conf.js"
   }
 }
-
